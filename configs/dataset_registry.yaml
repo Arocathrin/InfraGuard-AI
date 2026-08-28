@@ -1,0 +1,26 @@
+# InfraGuard-AI Dataset Registry
+
+datasets:
+  road_damage:
+    description: Road damage and pothole detection
+    status: planned
+
+  streetlight:
+    description: Streetlight condition detection
+    status: planned
+
+  fire_exit:
+    description: Blocked fire exit detection
+    status: planned
+
+  electrical:
+    description: Unsafe electrical installation detection
+    status: planned
+
+  building_damage:
+    description: Building damage detection
+    status: planned
+
+  parking:
+    description: Unauthorized parking detection
+    status: planned
